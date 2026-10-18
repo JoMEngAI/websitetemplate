@@ -193,7 +193,8 @@ it to build the site now from the materials I had supplied.
 ### What the Agent did (not yet reviewed by me)
 
 - Replaced the template author's identity, text, links, metadata, photo,
-  resume PDF, and project/skill images with my content.
+  and project/skill images with my content, and removed the template
+  author's resume PDF (my own public PDF was added later; see Interaction 5).
 - Removed the old Google Tag Manager, Google Analytics, and Google
   site-verification tags.
 - Removed the typing animation and the click-to-reveal project cards.

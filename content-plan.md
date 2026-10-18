@@ -221,8 +221,11 @@ and checking them.
 
 ## Contact
 
-- Public contact method: TO CONFIRM BEFORE PUBLICATION
-- Do not automatically publish my phone number or resume email.
+- Public contact method: LinkedIn.
+- Contact URL: https://www.linkedin.com/in/josephmendoza524/
+- Website contact wording:
+  "To contact me, reach out or connect with me on LinkedIn."
+- Do not publish my phone number or email address.
 - Location: Omit unless I approve a public location label.
 
 ## Resume
