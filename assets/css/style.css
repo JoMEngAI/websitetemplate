@@ -131,9 +131,9 @@ a:hover {
   height: 72px;
   border-radius: 50%;
   border: 2px solid var(--teal-300);
-  font-size: 26px;
+  font-size: 23px;
   font-weight: 500;
-  letter-spacing: 1px;
+  letter-spacing: 0.5px;
   color: #fff;
 }
 
@@ -641,6 +641,34 @@ main {
   margin: 0 0 18px;
 }
 
+.resume-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.btn-secondary {
+  display: inline-block;
+  padding: 9px 24px;
+  border-radius: 6px;
+  font-weight: 500;
+  font-size: 16px;
+  text-decoration: none;
+  border: 2px solid var(--teal-600);
+  color: var(--teal-700);
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.card a.btn-secondary:hover {
+  background: var(--teal-600);
+  color: #fff;
+}
+
+.card a.btn-primary,
+.card a.btn-primary:hover {
+  color: #fff;
+}
+
 /* Contact */
 .contact-list {
   margin: 20px 0 0;
@@ -733,7 +761,8 @@ main {
   .monogram {
     width: 40px;
     height: 40px;
-    font-size: 15px;
+    font-size: 13px;
+    letter-spacing: 0;
   }
 
   .brand-name {

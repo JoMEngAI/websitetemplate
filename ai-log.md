@@ -236,3 +236,15 @@ instructor that it is acceptable.
 - Every resume statement and metric shown on the site.
 - LinkedIn and GitHub links open the correct profiles.
 - Desktop and mobile layout in my own browser.
+
+## Interaction 5 — Resume download and contact wording
+
+- Date: October 18, 2026. Tool: Replit Agent.
+- Request: add a downloadable resume, make "reach out or connect on
+  LinkedIn" the contact method, and change the header monogram to "-JM".
+- What the Agent did: made a public copy of my resume PDF with location,
+  phone, and email removed (LinkedIn kept), added Download resume buttons
+  in the introduction and Resume section, updated the contact wording, and
+  changed the monogram.
+- To verify myself: open the downloaded PDF and confirm no private
+  contact details remain and all four pages read correctly.

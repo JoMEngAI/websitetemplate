@@ -264,8 +264,12 @@ Before publishing:
 ## Decisions approved by me (October 18, 2026)
 
 - Contact: LinkedIn and GitHub only. No phone, email, or location shown.
-- Resume: no PDF is published. The Resume section asks visitors to
-  request my resume through LinkedIn.
+- Contact wording: "To contact me, reach out or connect with me on LinkedIn."
+- Resume: downloadable PDF at assets/resume/Joseph-Mendoza-Resume.pdf.
+  It is a public copy of Mendoza-Joseph_CV2026.pdf with my location,
+  phone number, and email removed; only my LinkedIn URL remains in the
+  header. The original PDF stays out of the repository.
+- Monogram in the site header reads "-JM".
 - MS graduation: shown as "2025 – Present (in progress)".
 - Metrics: I approved showing the resume figures publicly ($1.01B spend
   portfolio, $12M+ savings pipeline, 150+ hours, 50K vendor records,
