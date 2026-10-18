@@ -1,0 +1,40 @@
+SETUP EVIDENCE — SWE 325/525 Career-Fair Resume Website
+Student: Joseph Mendoza
+Status: DRAFT. Items marked TO CONFIRM must be filled in by me.
+
+1. Parent repository
+   https://github.com/AmalChUm/websitetemplate
+
+2. My fork
+   https://github.com/JoMEngAI/websitetemplate
+   Verified in Replit: the workspace's "origin" remote points to this URL
+   (checked October 18, 2026). Fork status on GitHub: TO CONFIRM (GitHub
+   shows "forked from AmalChUm/websitetemplate" under the repo name).
+
+3. Local clone (GitHub Desktop)
+   Local folder path: TO CONFIRM
+   GitHub Desktop showed websitetemplate with main selected and no
+   uncommitted changes (my own observation).
+   Remote shown in GitHub Desktop (Repository > Repository settings):
+   TO CONFIRM
+
+4. Default branch
+   GitHub default branch: main (renamed from master by me).
+   Replit working branch at time of website changes: feature/replit-setup
+   (verified in Replit, October 18, 2026). The Replit workspace still has
+   an older local "master" branch; that is expected and was not changed.
+
+5. Existing commits before customization
+   - "update resume" (template history)
+   - "Add Replit configuration file" (already on GitHub)
+
+6. Initial site behavior before customization
+   From code inspection of the original index.html (not a browser test):
+   - Single-page portfolio for the template author (Varad Bhogayata):
+     About, Experience, Projects, Skills, Education, Contact, Resume.
+   - Used Materialize CSS/JS, jQuery, Font Awesome, and Typed.js.
+   - Included Google Tag Manager, Google Analytics, and a Google
+     site-verification tag belonging to the template author.
+   - Used absolute asset paths (/assets/...), which break when the site
+     is served from a GitHub Pages repository subpath.
+   My own observation of the original site in a browser: TO CONFIRM
