@@ -206,7 +206,7 @@ it to build the site now from the materials I had supplied.
 - Used three resume-based case studies (Perplexity research shared space,
   Oracle ERP vendor data cleansing, Medline SQL reporting automation).
 - Did not publish my phone number, email, or location, and did not
-  upload a resume PDF.
+  upload a resume PDF at this stage (see Interaction 5).
 
 ### Fact differences the Agent resolved in favor of my resume
 
@@ -219,9 +219,16 @@ it to build the site now from the materials I had supplied.
 ### Acceptance status
 
 On October 18, 2026 I approved these choices: LinkedIn and GitHub as the
-only public contact methods, "request on LinkedIn" instead of a public
-resume PDF, "2025 – Present (in progress)" for my MS, and public display
-of the resume metrics. My review of the rest of the site content is still
+only public contact methods, "2025 – Present (in progress)" for my MS, and
+public display of the resume metrics.
+
+Initially, I selected a LinkedIn-based resume-request approach.
+I later replaced that approach with a directly downloadable public
+resume PDF at assets/resume/Joseph-Mendoza-Resume.pdf.
+The LinkedIn-request approach is no longer the final implementation.
+Interaction 5 records that change.
+
+My review of the rest of the site content is still
 pending. Nothing has been committed by me, pushed, or merged yet.
 
 ### Instructor clarification needed

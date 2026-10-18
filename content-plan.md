@@ -227,9 +227,14 @@ and checking them.
 
 ## Resume
 
-- Add a public-safe resume PDF or approved public resume link.
-- Filename and final location: TO CONFIRM
-- Review the PDF for private contact information before uploading it.
+- Current approach: a directly downloadable public resume PDF.
+- Filename and location: assets/resume/Joseph-Mendoza-Resume.pdf
+- It is a public copy of my resume with location, phone number, and
+  email removed; only my LinkedIn URL remains in the header.
+- Linked from the "Download resume (PDF)" buttons in the introduction
+  and the Resume section.
+- Before publishing, I will open the PDF and confirm no private contact
+  information remains.
 - Test its link from the deployed GitHub Pages website.
 
 ## Weebly content reuse
