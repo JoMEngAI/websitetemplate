@@ -1,0 +1,58 @@
+WEBSITE SELF-REVIEW
+Student: Joseph Mendoza
+Test results reported: October 18, 2026
+
+Repository:
+https://github.com/JoMEngAI/websitetemplate
+
+Deployed website:
+https://jomengai.github.io/websitetemplate/
+
+EVIDENCE BASIS
+The following PASS results were explicitly reported by the student for
+the live GitHub Pages website, not merely the Replit preview.
+They are not independent browser tests performed by Perplexity.
+Exact browser version and narrow-screen width were not supplied.
+
+REPORTED LIVE-SITE TESTS
+
+1. Desktop layout: PASS — student reported the page looks correct at
+normal desktop width.
+
+2. Narrow-screen layout and menu: PASS — student reported the menu works
+and content fits without sideways scrolling. This was a narrow-browser
+check; a separate physical-phone test was not reported.
+
+3. Introduction and Resume-section download buttons: PASS — student
+reported both buttons download the correct PDF.
+
+4. Navigation: PASS — student reported navigation links work.
+
+5. LinkedIn and GitHub: PASS — student reported both professional links
+work.
+
+6. Other problems: none observed by the student in the checks above.
+
+PRIOR REVIEW
+The student's pre-merge comment on PR #7 recorded completion of public
+PDF review, resume figures/certification review, professional-link
+checks, and desktop/mobile preview review. That preview review is
+separate from the live-site results above.
+
+SCREENSHOT EVIDENCE
+Reuse the student's existing initial-site and website screenshots.
+Include those existing images under evidence/screenshots/ in the final
+submission package. No additional screenshots are claimed here.
+Written notes provide the desktop, narrow-screen, links, and deployed-
+page observations.
+
+LIMITATIONS
+- Keyboard-only navigation was not explicitly reported tested.
+- Screen-reader behavior and a formal contrast/accessibility audit were
+  not reported tested.
+- No cross-browser or separate physical-device test is claimed.
+- An independent Perplexity page retrieval failed; this does not override
+  the student's report that the live site worked in their browser.
+- No failed test or fix/retest cycle was reported for these final checks.
+- These results apply to the checks performed, not a claim that every
+  possible browser behavior is defect-free.

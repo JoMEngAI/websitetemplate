@@ -1,40 +1,56 @@
 SETUP EVIDENCE — SWE 325/525 Career-Fair Resume Website
 Student: Joseph Mendoza
-Status: DRAFT. Items marked TO CONFIRM must be filled in by me.
+Evidence recorded: October 18, 2026
 
 1. Parent repository
-   https://github.com/AmalChUm/websitetemplate
+https://github.com/AmalChUm/websitetemplate
 
-2. My fork
-   https://github.com/JoMEngAI/websitetemplate
-   Verified in Replit: the workspace's "origin" remote points to this URL
-   (checked October 18, 2026). Fork status on GitHub: TO CONFIRM (GitHub
-   shows "forked from AmalChUm/websitetemplate" under the repo name).
+2. Student fork
+https://github.com/JoMEngAI/websitetemplate
+GitHub identifies this repository as a fork of AmalChUm/websitetemplate.
 
-3. Local clone (GitHub Desktop)
-   Local folder path: TO CONFIRM
-   GitHub Desktop showed websitetemplate with main selected and no
-   uncommitted changes (my own observation).
-   Remote shown in GitHub Desktop (Repository > Repository settings):
-   TO CONFIRM
+3. Local clone
+Opened in GitHub Desktop. A student-provided screenshot showed
+websitetemplate with main selected and no uncommitted changes.
 
-4. Default branch
-   GitHub default branch: main (renamed from master by me).
-   Replit working branch at time of website changes: feature/replit-setup
-   (verified in Replit, October 18, 2026). The Replit workspace still has
-   an older local "master" branch; that is expected and was not changed.
+Repository folder, transcribed from the Finder Get Info screenshot:
+/Users/-jm/Documents/UMICH SoftEng - Grad School/SWE525 Software Construction/Workspace/Career Fair Website builder/websitetemplate
+
+The Finder screenshot was for the Screenshots subfolder; its Where field
+identified the parent repository folder above.
+
+Expected origin remote for this fork:
+https://github.com/JoMEngAI/websitetemplate.git
+The actual URL displayed in GitHub Desktop's remote settings has not
+been supplied. Do not treat the expected URL as a completed local check.
+
+Published website (not a Git remote):
+https://jomengai.github.io/websitetemplate/
+
+4. Branches and workflow
+The GitHub default branch was renamed from master to main.
+Website implementation branch: feature/replit-setup.
+Implementation PR: https://github.com/JoMEngAI/websitetemplate/pull/7
+PR #7 was merged into main.
+Final documentation branch: docs/final-evidence.
 
 5. Existing commits before customization
-   - "update resume" (template history)
-   - "Add Replit configuration file" (already on GitHub)
+- update resume (template history)
+- Add Replit configuration file
 
-6. Initial site behavior before customization
-   From code inspection of the original index.html (not a browser test):
-   - Single-page portfolio for the template author (Varad Bhogayata):
-     About, Experience, Projects, Skills, Education, Contact, Resume.
-   - Used Materialize CSS/JS, jQuery, Font Awesome, and Typed.js.
-   - Included Google Tag Manager, Google Analytics, and a Google
-     site-verification tag belonging to the template author.
-   - Used absolute asset paths (/assets/...), which break when the site
-     is served from a GitHub Pages repository subpath.
-   My own observation of the original site in a browser: TO CONFIRM
+6. Original template browser observation
+Student report, supplied October 18, 2026:
+The original site appeared clunky, largely white and broken, with
+nonworking elements and broken links.
+The precise browser, inspection time, and individual failing links were
+not recorded. This describes the observed rendering, not a proven cause.
+
+7. Original template code inspection
+Separate from the student's browser observation:
+- Single-page portfolio for Varad Bhogayata.
+- Sections included About, Experience, Projects, Skills, Education,
+  Contact, and Resume.
+- Used Materialize, jQuery, Font Awesome, and Typed.js.
+- Contained the template author's analytics and verification tags.
+- Included domain-root asset paths, which required review for
+  publication under a GitHub Pages repository subpath.
