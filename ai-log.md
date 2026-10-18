@@ -218,8 +218,11 @@ it to build the site now from the materials I had supplied.
 
 ### Acceptance status
 
-Pending my review. Nothing here has been accepted, committed by me,
-pushed, or merged yet.
+On October 18, 2026 I approved these choices: LinkedIn and GitHub as the
+only public contact methods, "request on LinkedIn" instead of a public
+resume PDF, "2025 – Present (in progress)" for my MS, and public display
+of the resume metrics. My review of the rest of the site content is still
+pending. Nothing has been committed by me, pushed, or merged yet.
 
 ### Instructor clarification needed
 

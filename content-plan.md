@@ -261,16 +261,15 @@ Before publishing:
 - Test navigation, assets, professional links, and resume access.
 - Review the deployed website on desktop and mobile.
 
-## Choices used in the first site draft (pending my approval)
+## Decisions approved by me (October 18, 2026)
 
 - Contact: LinkedIn and GitHub only. No phone, email, or location shown.
-- Resume: no PDF uploaded. The Resume section asks visitors to request it
-  on LinkedIn until I approve a public-safe PDF.
-- MS graduation: shown as "2025 – Present (in progress)" until I confirm
-  an expected date.
-- Metrics: resume figures are shown as written on the resume (e.g. $1.01B
-  spend portfolio, $12M+ savings pipeline, 150+ hours, 50K records, $17M
-  exposure reduction). I must approve these for public disclosure.
+- Resume: no PDF is published. The Resume section asks visitors to
+  request my resume through LinkedIn.
+- MS graduation: shown as "2025 – Present (in progress)".
+- Metrics: I approved showing the resume figures publicly ($1.01B spend
+  portfolio, $12M+ savings pipeline, 150+ hours, 50K vendor records,
+  $17M exposure reduction).
 - Experience: four main roles plus a short "Earlier experience" list.
 - Weebly: only the theme export was available (no site content). Its blue
   color preset informed the navy/teal palette; no Weebly files were copied.
