@@ -73,8 +73,8 @@ Do not add percentage-based skill ratings.
 
 - Degree: MS in Software Engineering
 - Concentration: Artificial Intelligence
-- Attendance: 2025–Present
-- Expected graduation: TO CONFIRM BEFORE PUBLICATION
+- Attendance: 2025–Present (in progress).
+- Expected graduation: Not yet confirmed.
 
 ### University of Michigan Rackham Graduate School, Ann Arbor
 
